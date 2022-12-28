@@ -1,0 +1,14 @@
+﻿@model BankProcess
+
+<div class="container">
+    <form method="post">
+        <br />
+        <label>Musteri Adi</label>
+        <input type="text" class="form-control" asp-for="CustomerName"/>
+        <br />
+        <label>Çekilecek Tutar</label>
+        <input type="text" class="form-control" asp-for="Amount" />
+        <br />
+        <button class="btn btn-outline-warning">Para Çekme Talebinde Bulun</button>
+    </form>
+</div>

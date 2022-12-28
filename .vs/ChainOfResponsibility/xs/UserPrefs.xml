@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CCD50236-3C5A-4154-A27F-02CBF4A41CAF}|UpSchool_ChainOfResponsibility">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChainOfResponsibility/ChainOfResponsibility/Manager.cs">
+    <Files>
+      <File FileName="ChainOfResponsibility/ChainOfResponsibility/ManagerAssistant.cs" Line="1" Column="1" />
+      <File FileName="ChainOfResponsibility/ChainOfResponsibility/Manager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibility" expanded="True">
+            <Node name="ChainOfResponsibility" expanded="True">
+              <Node name="ChainOfResponsibility" expanded="True">
+                <Node name="Manager.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Default" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
